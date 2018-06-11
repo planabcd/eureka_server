@@ -1,2 +1,0 @@
-# eureka_server
-eureka
